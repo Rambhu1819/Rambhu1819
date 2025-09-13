@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rambhu1819
 - 👀 I’m interested in web development,AI,ML
-- 🌱 I’m currently learning NonSQL Database (MongoBD,DSA)
+- 🌱 I’m currently learning NonSQL Database (MongoDB,DSA)
 - 💞️ I’m looking to collaborate on (Goldmen Sachs)
 - 📫 How to reach me ...(rambhusingh50@gmail.com)
 - 😄 Pronouns: ...
